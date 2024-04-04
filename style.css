@@ -3,7 +3,7 @@
  body 
 {
         background-color: green ;
-  background-image: linear-gradient(to right, green, white);
+  background-image: linear-gradient(to right, rgb(0, 255, 0), rgb(255, 255, 255));
   text-align: center;
 }
  h {
@@ -27,7 +27,7 @@ p {
 li {
  color:  rgb(0, 0, 0);
   text-align: center;
-    text-decoration: none;
+  text-decoration: none;
   font-size: 160%;
   font-family: Georgia, 'Times New Roman', Times, serif;
   line-height:1.5em;}
