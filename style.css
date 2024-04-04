@@ -4,6 +4,7 @@
 {
         background-color: green ;
   background-image: linear-gradient(to right, green, white);
+  text-align: center;
 }
  div {
   background-color: black;
