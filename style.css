@@ -6,8 +6,7 @@
   background-image: linear-gradient(to right, green, white);
   text-align: center;
 }
- div {
-  background-color: black;
+ h {
   margin: 0px;
   height: 160%;
   color: rgb(255,255,255);
